@@ -1,5 +1,3 @@
-# Customer-Segmentation-RFM-CLV-Analysis
-
 # **Online Retail Data Clustering - RFM (Recency, Frequency, Monetary) - CLV (Customer Lifetime Value)**
 
 ![image](images/customer-segmentation.webp)
