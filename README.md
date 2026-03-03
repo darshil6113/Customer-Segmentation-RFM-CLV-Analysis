@@ -2,7 +2,7 @@
 
 # **Online Retail Data Clustering - RFM (Recency, Frequency, Monetary) - CLV (Customer Lifetime Value)**
 
-![image](images/seg.png)
+![image](images/customer-segmentation.webp)
 Credits: [salesforce](https://www.salesforce.com/sales/sales-planning/customer-segmentation/)
 
 
